@@ -1,0 +1,8 @@
+Setup Instructions -
+
+Step 1: Install Jupyter Notebook
+Step 2: Install following libraries
+        -pip install pandas as pd
+        -pip install plotly.express
+        -pip install plotly.graph_objects as go
+Step 3: Run the notebooks
